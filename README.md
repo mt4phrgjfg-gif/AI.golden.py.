@@ -1,2 +1,2 @@
-# AI.golden.py.
+app.py
 this is golden AI
